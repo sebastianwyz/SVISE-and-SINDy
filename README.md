@@ -21,7 +21,7 @@ Below are the graphs of the Frobenius Metric for each coupling constant K. Each 
 
 
 
-# Analysis of the RMS Metric on Kuramoto Networks
+# Analysis of the RMSE Metric on Kuramoto Networks
 
 ## Discussion
 
